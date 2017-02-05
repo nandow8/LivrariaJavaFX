@@ -1,0 +1,13 @@
+.jfx-button{
+	/* @SuppressWarning */	
+	-fx-background-color: #696969;
+	/* @SuppressWarning */	
+	-fx-text-fill: white;
+}
+
+.jfx-button:hover{
+	/* @SuppressWarning */	
+	-fx-background-color: #388E3C;
+}
+
+ 
